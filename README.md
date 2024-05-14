@@ -20,3 +20,8 @@ In the INITIAL_PROMT variable, specify the promt that the bot will follow. For e
 from some name. You can leave it empty (it will be a regular chatGPT)
 
 At the very bottom we specify the api key of the discord bot
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+pip install openai
+pip install disnake
